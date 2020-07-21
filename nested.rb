@@ -134,5 +134,7 @@ def adding_to_dennis
         :languages => ["C"]
       }
     }
+    
+    programmer_hash[:dennie_ritchie][:languages] = ["C", "Assembly"]
 
 end
