@@ -57,7 +57,7 @@ def dennis_ritchies_language
       }
     }
     
-    programmer_hash[:dennis_ritchies][:languages]
+    programmer_hash[:dennis_ritchies][:languages].flatten
 
 end
 
